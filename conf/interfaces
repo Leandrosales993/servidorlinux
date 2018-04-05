@@ -16,5 +16,5 @@ gateway 192.168.1.1
 dns-nameservers 192.168.1.1
 
 #Domínio igual do Microsoft
-dns-search leandro.local
-dns-domain leandro.local
+dns-search sales.local
+dns-domain sales.local
